@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://jtassis.github.io/nlw-sports-explorer/)
+[🔗 Clique aqui para acessar](https://jtassis.github.io/nlw-eSports-explorer/)
 
 ## 🛠️ Tecnologias
 
